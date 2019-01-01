@@ -1,0 +1,2 @@
+# Hamilton
+Program controlling game 
