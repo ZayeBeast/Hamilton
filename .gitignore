@@ -34,3 +34,6 @@
 # Private data
 UsersData.txt
 CircleOfLife.txt
+*.layout
+*.depend
+
