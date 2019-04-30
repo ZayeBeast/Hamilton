@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Private data
+UsersData.txt
+CircleOfLife.txt
