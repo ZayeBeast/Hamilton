@@ -35,9 +35,7 @@ int main()
         for(int i=0;i<n;++i)
             circle[i]=-1;
         for(int i=0;getline(file,line);i++)
-            {
             lista[i] = line;
-            }
         file.close();
     }
     else cout << "Unable to open the file";
